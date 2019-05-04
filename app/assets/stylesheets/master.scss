@@ -67,7 +67,7 @@ body {
   background: #fff;
   border: 1px solid #ccc;
   border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
-  padding: 10px;
+  padding: 20px;
 }
 
 .booyah-box h2, .booyah-box h1 {
@@ -142,4 +142,21 @@ ul .header .fa {
 
 .lessons li p {
   margin: 0;
+}
+
+.col-sm-8 {
+  margin: 30px;
+}
+
+.btn-primary {
+  margin-left: 50px;
+}
+
+.img-fluid {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  margin-left: 50px;
 }
