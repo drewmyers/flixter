@@ -12,6 +12,7 @@ Flixter is a two-sided, video-streaming marketplace platform that features credi
 
 # Tech/Framework Used
 
+- Ruby on Rails 2.5.1
 - Git
 - Github
 - Postgresql
