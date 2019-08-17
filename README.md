@@ -1,24 +1,31 @@
-# README
+# Flixter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Flixter is a two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
 
-Things you may want to cover:
+# Flixter Deployed
 
-* Ruby version
+- https://flixter-drew-myers.herokuapp.com/
 
-* System dependencies
+# Screenshots
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+# Tech/Framework Used
 
-* How to run the test suite
+- Git
+- Github
+- Postgresql
+- Bootstrap
+- Heroku
+- CSS
+- Simple Form
+- Carrierwave
+- Stripe Payments
 
-* Services (job queues, cache servers, search engines, etc.)
+# How to Contribute
 
-* Deployment instructions
+If interested in contributing clone my repo: Add a pull request, or open an issue. 
 
-* ...
+# Credit
+
+- Drew Myers https://www.linkedin.com/in/drew-myers-70788a183/
