@@ -8,7 +8,7 @@ Flixter is a two-sided, video-streaming marketplace platform that features credi
 
 # Screenshots
 
-
+![flixter](https://user-images.githubusercontent.com/48326186/63216981-21105e80-c10c-11e9-8b72-ac4b2832949f.png)
 
 # Tech/Framework Used
 
