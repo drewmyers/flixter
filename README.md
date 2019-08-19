@@ -22,6 +22,7 @@ Flixter is a two-sided, video-streaming marketplace platform that features credi
 - Simple Form
 - Carrierwave
 - Stripe Payments
+- MiniMagick
 
 # How to Contribute
 
