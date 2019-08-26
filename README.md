@@ -24,6 +24,13 @@ Flixter is a two-sided, video-streaming marketplace platform that features credi
 - Stripe Payments
 - MiniMagick
 
+# Installation
+
+- Clone Repository
+- Run Bundle Install
+- Run rake db:create
+- Run rake db:migrate
+
 # How to Contribute
 
 If interested in contributing clone my repo: Add a pull request, or open an issue. 
